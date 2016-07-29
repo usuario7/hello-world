@@ -1,2 +1,3 @@
 # hello-world
-Ahora le digo hola a este mundo
+Es así como empezamos una nueva aventura.
+Aquí espero crear una biblioteca con información relevante para que los humanos alimenten sus mentes y tomen decisiones inteligentes sobre su futuro.
